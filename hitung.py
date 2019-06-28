@@ -33,7 +33,7 @@ print("2.Kurang")
 print("3.Kali")
 print("4.Bagi")
 # Meminta input dari user
-choice = input("Masukkan pilihan(1/2/3/4): ")
+raw_input("Masukkan pilihan(1/2/3/4): ")
 num1 = int(input("Masukkan bilangan pertama: "))
 num2 = int(input("Masukkan bilangan kedua: "))
 if choice == '1':
